@@ -8,7 +8,7 @@ Data and code for "Design-based causal inference in bipartite experiments".
 - *`state_postal.csv`*: this dataset provides the two-letter postal abbreviation for each state
 
 ## code
-- *`functions_wrap_up.py`*: provides all the functions needed for further analysis
-- *`run_sim_gen_data.py`*: provide code of generating datasets based on simulated bipartite graphs
-- *`real_data_gen.py`*: generate datasets based on real bipartite graphs
-- *`run_sim_parallel.py`*: obtain results based on different datasets
+- *`functions_wrap_up.py`*: all the functions needed for further analysis
+- *`run_sim_gen_data.py`*: generating datasets based on simulated bipartite graphs
+- *`real_data_gen.py`*: generating datasets based on real bipartite graphs
+- *`run_sim_parallel.py`*: obtaining results based on different datasets
