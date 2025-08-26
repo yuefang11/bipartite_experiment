@@ -1,5 +1,5 @@
 # bipartite_experiment
-This provides data and code for "Design-based causal inference in bipartite experiments".
+Data and code for "Design-based causal inference in bipartite experiments".
 
 ## data
 - *`analysis_dat.RData`*: this dataset is originally from [dataverse](https://dataverse.harvard.edu/dataverse/dapsm) of paper "Adjusting for Unmeasured Spatial Confounding with Distance Adjusted Propensity Score Matching", by Papadogeorgou, Choirat, and Zigler
